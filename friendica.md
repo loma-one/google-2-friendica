@@ -9,4 +9,4 @@ Natürlich eine riesen Katastrophe. Immerhin hat man einige Zeit investiert, um 
 Die Federation ist ein Netzwerk von verschiedenen Projekten, mittels eines gemeinsamen Protokolls oder dem Mapping von Daten, um diese in dem jedweils anderen Netzwerk zur anzeige zu bringen. Hierbei ist eine vollständig Interaktion der Anwender untereinander möglich. Es ist also egal, ob du das eine oder andere Netzwerk nutzt. Alle Anwender können miteinander interagieren, so wie du allen Mobilfunknutzern SMS senden kannst, egal, bei welchen Netzbetreiber sie selbst sind.
 
 ![](/img/federation.png)
-### die Projekte
+### Das Projekt Friendi.ca
