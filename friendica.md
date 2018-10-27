@@ -10,6 +10,4 @@ Die Federation ist ein Netzwerk von verschiedenen Projekten, mittels eines gemei
 
 ![](/img/federation.png)
 ### Das Projekt Friendi.ca
-Wegen der verhältnismäßig einfachen Installation von Friendi.ca lohnt sich ein eigener Server. Willst du die Software erst einmal kennenlernen, dann kannst du eine der vielen privaten Hist nutzen. Einer davon ist meiner [Ameldung Friendi.ca]([https://loma.ml/register)
-
-[![Willkommen](img/thumb/welcome.png)](img/welcome.png)
+Wegen der verhältnismäßig einfachen Installation von Friendi.ca lohnt sich ein eigener Server. Willst du die Software erst einmal ausprobielen, kannst du einen der vielen privat betriebenen Server ausprobieren. Einer davon ist der Meine: [loma](https://loma.ml/register)
